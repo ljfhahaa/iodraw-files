@@ -34,6 +34,11 @@
         <mxCell id="SRCGxAppU7wpSx7H8aHe-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-54" target="SRCGxAppU7wpSx7H8aHe-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SRCGxAppU7wpSx7H8aHe-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="427.5000000000002" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-54" value="模型训练与微调模块(Training类)&#xa;- 训练 / 微调 / 迁移学习&#xa;- 实时日志 / 进度/动态类别调整" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="298" y="344.5" width="259" height="102" as="geometry" />
         </mxCell>
