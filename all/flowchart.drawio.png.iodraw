@@ -17,10 +17,10 @@
           <mxGeometry x="221" y="317" width="226" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-93" value="保存当前帧为随机名.jpg" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="536" width="233" height="49" as="geometry" />
+          <mxGeometry x="100" y="460" width="233" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-94" value="停止采集,保存完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="500" width="194" height="49" as="geometry" />
+          <mxGeometry x="400" y="460" width="194" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-88" target="SRCGxAppU7wpSx7H8aHe-89">
           <mxGeometry relative="1" as="geometry">
