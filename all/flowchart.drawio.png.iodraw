@@ -19,6 +19,9 @@
         <mxCell id="SRCGxAppU7wpSx7H8aHe-51" value="登录 / 注册 / 删除&#xa;修改密码(SQLite)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="228" width="229" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="SRCGxAppU7wpSx7H8aHe-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-52" target="SRCGxAppU7wpSx7H8aHe-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-52" value="调用OpenCV摄像头&#xa;采集手语图像帧&#xa;分类保存至本地" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="299" y="228" width="259" height="67" as="geometry" />
         </mxCell>
@@ -26,13 +29,13 @@
           <mxGeometry x="607" y="228" width="256" height="67" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-54" value="模型训练与微调模块(Training类)&#xa;- 训练 / 微调 / 迁移学习&#xa;- 实时日志 / 进度/动态类别调整" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="350" width="259" height="102" as="geometry" />
+          <mxGeometry x="288.5" y="344.5" width="259" height="102" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-55" value="主界面展示识别结果&#xa;翻译文字+置信度展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="362" width="250" height="67" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-56" value="结果与模型可视化模块&#xa;- 损失 / 准确率曲线&#xa;- 混淆矩阵 / TensorBoard" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="307.5" y="520" width="240" height="84" as="geometry" />
+          <mxGeometry x="288.5" y="510" width="240" height="84" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-47" target="SRCGxAppU7wpSx7H8aHe-48">
           <mxGeometry relative="1" as="geometry">
@@ -69,11 +72,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-53" target="SRCGxAppU7wpSx7H8aHe-55">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SRCGxAppU7wpSx7H8aHe-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-54" target="SRCGxAppU7wpSx7H8aHe-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
