@@ -4,63 +4,47 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="SRCGxAppU7wpSx7H8aHe-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="451.9999999999998" y="717" as="sourcePoint" />
-            <mxPoint x="452" y="767" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SRCGxAppU7wpSx7H8aHe-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.25;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="452" y="853" />
-            </Array>
-            <mxPoint x="452" y="816" as="sourcePoint" />
-            <mxPoint x="535.2500000000002" y="889" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-26" value="用户管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="512" y="1060" width="156" height="49" as="geometry" />
+          <mxGeometry x="262" y="1050" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-27" value="注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="1159" width="92" height="49" as="geometry" />
+          <mxGeometry x="100" y="1149" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-28" value="登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="802" y="1159" width="92" height="49" as="geometry" />
+          <mxGeometry x="552" y="1149" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-29" value="密码修改/账户删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="492" y="1159" width="196" height="49" as="geometry" />
+          <mxGeometry x="242" y="1149" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-30" value="输入用户信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="415" y="1258" width="156" height="49" as="geometry" />
+          <mxGeometry x="165" y="1248" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-31" value="验证用户身份" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="770" y="1258" width="156" height="49" as="geometry" />
+          <mxGeometry x="520" y="1248" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-32" value="写入/更新SQLite" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="404" y="1357" width="179" height="49" as="geometry" />
+          <mxGeometry x="154" y="1347" width="179" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-33" value="查询SQLite数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="755" y="1357" width="186" height="49" as="geometry" />
+          <mxGeometry x="505" y="1347" width="186" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-34" value="操作成功提示或跳转至系统主界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="377" y="1456" width="252" height="67" as="geometry" />
+          <mxGeometry x="127" y="1446" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-35" value="操作失败提示用户（用户名或密码错误）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="732" y="1456" width="252" height="67" as="geometry" />
+          <mxGeometry x="482" y="1446" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-26" target="SRCGxAppU7wpSx7H8aHe-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="396" y="1134" />
+              <mxPoint x="146" y="1124" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-26" target="SRCGxAppU7wpSx7H8aHe-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="848" y="1134" />
+              <mxPoint x="598" y="1124" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -72,14 +56,14 @@
         <mxCell id="SRCGxAppU7wpSx7H8aHe-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-27" target="SRCGxAppU7wpSx7H8aHe-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="396" y="1233" />
+              <mxPoint x="146" y="1223" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.81;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-29" target="SRCGxAppU7wpSx7H8aHe-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="590" y="1233" />
+              <mxPoint x="340" y="1223" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -101,21 +85,21 @@
         <mxCell id="SRCGxAppU7wpSx7H8aHe-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.48;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-32" target="SRCGxAppU7wpSx7H8aHe-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="493" y="1431" />
+              <mxPoint x="243" y="1421" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=1;entryX=0.94;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-33" target="SRCGxAppU7wpSx7H8aHe-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="697" y="1431" />
+              <mxPoint x="447" y="1421" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-33" target="SRCGxAppU7wpSx7H8aHe-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="858" y="1431" />
+              <mxPoint x="608" y="1421" />
             </Array>
           </mxGeometry>
         </mxCell>
