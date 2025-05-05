@@ -25,9 +25,6 @@
         <mxCell id="SRCGxAppU7wpSx7H8aHe-52" value="调用OpenCV摄像头&#xa;采集手语图像帧&#xa;分类保存至本地" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="299" y="228" width="259" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="SRCGxAppU7wpSx7H8aHe-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-53" target="SRCGxAppU7wpSx7H8aHe-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-53" value="调用MyResNet18&#xa;提取图像特征&#xa;输出翻译文本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="607" y="228" width="256" height="67" as="geometry" />
         </mxCell>
@@ -69,7 +66,9 @@
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-49" target="SRCGxAppU7wpSx7H8aHe-52">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="429" y="210" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-53" target="SRCGxAppU7wpSx7H8aHe-55">
