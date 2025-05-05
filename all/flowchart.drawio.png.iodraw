@@ -13,6 +13,9 @@
         <mxCell id="SRCGxAppU7wpSx7H8aHe-49" value="手语图像采集模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="334" y="129" width="188" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="SRCGxAppU7wpSx7H8aHe-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-50" target="SRCGxAppU7wpSx7H8aHe-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-50" value="手语识别与翻译模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="633" y="129" width="204" height="49" as="geometry" />
         </mxCell>
