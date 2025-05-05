@@ -19,9 +19,6 @@
         <mxCell id="SRCGxAppU7wpSx7H8aHe-51" value="登录 / 注册 / 删除&#xa;修改密码(SQLite)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="228" width="229" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="SRCGxAppU7wpSx7H8aHe-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-52" target="SRCGxAppU7wpSx7H8aHe-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-52" value="调用OpenCV摄像头&#xa;采集手语图像帧&#xa;分类保存至本地" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="299" y="228" width="259" height="67" as="geometry" />
         </mxCell>
