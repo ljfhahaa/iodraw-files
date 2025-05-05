@@ -22,6 +22,9 @@
         <mxCell id="SRCGxAppU7wpSx7H8aHe-52" value="调用OpenCV摄像头&#xa;采集手语图像帧&#xa;分类保存至本地" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="299" y="228" width="259" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="SRCGxAppU7wpSx7H8aHe-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-53" target="SRCGxAppU7wpSx7H8aHe-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-53" value="调用MyResNet18&#xa;提取图像特征&#xa;输出翻译文本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="607" y="228" width="256" height="67" as="geometry" />
         </mxCell>
@@ -32,7 +35,7 @@
           <mxGeometry x="610" y="362" width="250" height="67" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-56" value="结果与模型可视化模块&#xa;- 损失 / 准确率曲线&#xa;- 混淆矩阵 / TensorBoard" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="298" y="510" width="240" height="84" as="geometry" />
+          <mxGeometry x="298" y="501" width="240" height="84" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-47" target="SRCGxAppU7wpSx7H8aHe-48">
           <mxGeometry relative="1" as="geometry">
