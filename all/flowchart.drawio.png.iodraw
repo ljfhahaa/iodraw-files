@@ -32,7 +32,7 @@
           <mxGeometry x="610" y="362" width="250" height="67" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-56" value="结果与模型可视化模块&#xa;- 损失 / 准确率曲线&#xa;- 混淆矩阵 / TensorBoard" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="315" y="510" width="240" height="84" as="geometry" />
+          <mxGeometry x="298" y="510" width="240" height="84" as="geometry" />
         </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SRCGxAppU7wpSx7H8aHe-47" target="SRCGxAppU7wpSx7H8aHe-48">
           <mxGeometry relative="1" as="geometry">
