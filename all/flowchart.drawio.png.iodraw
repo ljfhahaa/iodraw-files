@@ -13,11 +13,6 @@
         <mxCell id="SRCGxAppU7wpSx7H8aHe-90" value="打开摄像头开始录制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="232" y="218" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="SRCGxAppU7wpSx7H8aHe-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="SRCGxAppU7wpSx7H8aHe-93">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="420" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SRCGxAppU7wpSx7H8aHe-91" value="是否达到设定采集数量?" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="221" y="317" width="226" height="49" as="geometry" />
         </mxCell>
