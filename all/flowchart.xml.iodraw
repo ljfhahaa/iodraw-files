@@ -100,7 +100,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5_UvZz_cgiV7wx1v9PZt" name="第 2 页">
-    <mxGraphModel dx="2037" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,7 +245,7 @@
         <mxCell id="iqEnIRyMvksghVYUHAqf-232" value="残差块4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="659" y="1211" width="117" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="iqEnIRyMvksghVYUHAqf-233" value="H" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="iqEnIRyMvksghVYUHAqf-233" value="自适应平均池化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="516" y="1350" width="70" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iqEnIRyMvksghVYUHAqf-234" value="全连接层(分类)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
