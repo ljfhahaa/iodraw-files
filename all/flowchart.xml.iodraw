@@ -191,10 +191,72 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iqEnIRyMvksghVYUHAqf-155" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-140">
+        <mxCell id="iqEnIRyMvksghVYUHAqf-156" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="78" y="550" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-157" value="输入图像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="62" y="649" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-158" value="图像预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="54" y="748" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-159" value="选择" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="84" y="847" width="81" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-160" value="卷积+池化重复(可选)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1019" width="208" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-161" value="扁平化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1118" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-162" value="全连接层(分类)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1217" width="168" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-163" value="输出结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="62" y="1316" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-164" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-156" target="iqEnIRyMvksghVYUHAqf-157">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="778" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-165" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-157" target="iqEnIRyMvksghVYUHAqf-158">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-166" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-158" target="iqEnIRyMvksghVYUHAqf-159">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-167" value="卷积层&#xa;(提取特征)" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=1;entryX=0.42;entryY=-0.01;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-159" target="iqEnIRyMvksghVYUHAqf-160">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="74" y="973" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-168" value="池化层&#xa;(减少尺寸)" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0.58;entryY=-0.01;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-159" target="iqEnIRyMvksghVYUHAqf-160">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="174" y="973" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-169" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-160" target="iqEnIRyMvksghVYUHAqf-161">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-170" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-161" target="iqEnIRyMvksghVYUHAqf-162">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-171" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-162" target="iqEnIRyMvksghVYUHAqf-163">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
