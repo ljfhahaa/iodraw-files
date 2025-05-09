@@ -104,6 +104,174 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iqEnIRyMvksghVYUHAqf-63" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="653" y="20" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-64" value="登录界面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="652" y="119" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-65" value="输入用户名和密码,身份验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="576" y="218" width="247" height="247" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-66" value="功能选择界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="526" y="538" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-67" value="重新输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="732" y="538" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-68" value="录制手语" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="542" y="637" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-69" value="手语翻译" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="796" y="637" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-70" value="训练模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="257" y="637" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-71" value="训练结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="745" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-72" value="模型信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1002" y="745" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-73" value="采集手语图像实时识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="494" y="745" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-74" value="实时识别手语类别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="764" y="745" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-75" value="选择训练方式(从头训练/微调)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="194" y="736" width="250" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-76" value="展示模型性能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="123" y="875" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-77" value="查看模型结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="986" y="875" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-78" value="准确率/损失" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="523" y="974" width="148" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-79" value="返回选择界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="519" y="1073" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-63" target="iqEnIRyMvksghVYUHAqf-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-64" target="iqEnIRyMvksghVYUHAqf-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-82" value="验证成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-65" target="iqEnIRyMvksghVYUHAqf-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="604" y="501" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-83" value="验证失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-65" target="iqEnIRyMvksghVYUHAqf-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="794" y="501" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-66" target="iqEnIRyMvksghVYUHAqf-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-66" target="iqEnIRyMvksghVYUHAqf-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="858" y="612" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-86" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-66" target="iqEnIRyMvksghVYUHAqf-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="319" y="612" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-87" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-66" target="iqEnIRyMvksghVYUHAqf-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="82" y="612" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-88" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-66" target="iqEnIRyMvksghVYUHAqf-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1064" y="612" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-89" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-68" target="iqEnIRyMvksghVYUHAqf-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-69" target="iqEnIRyMvksghVYUHAqf-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-91" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-70" target="iqEnIRyMvksghVYUHAqf-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-92" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.19;entryY=0.01;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-71" target="iqEnIRyMvksghVYUHAqf-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="82" y="839" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-93" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-72" target="iqEnIRyMvksghVYUHAqf-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-94" value="训练成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.33;exitY=0.99;entryX=0.57;entryY=0.01;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-75" target="iqEnIRyMvksghVYUHAqf-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="228" y="839" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-95" value="训练失败" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=1;entryY=0.3;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-75" target="iqEnIRyMvksghVYUHAqf-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="839" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.32;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-76" target="iqEnIRyMvksghVYUHAqf-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="201" y="949" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-97" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.35;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-77" target="iqEnIRyMvksghVYUHAqf-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1064" y="949" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqEnIRyMvksghVYUHAqf-98" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="iqEnIRyMvksghVYUHAqf-78" target="iqEnIRyMvksghVYUHAqf-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
