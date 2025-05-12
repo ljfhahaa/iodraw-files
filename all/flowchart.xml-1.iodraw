@@ -11,7 +11,7 @@
           <mxGeometry x="59" y="119" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-40" value="卷积 + BN + ReLU" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="218" width="172" height="172" as="geometry" />
+          <mxGeometry x="20" y="218" width="140" height="172" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-41" value="最大池化" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="59" y="440" width="94" height="49" as="geometry" />
