@@ -31,6 +31,9 @@
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-99" value="翻译基础手语 (带置信度)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="140" width="237" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="QasB2vUxpqvYcMy4Cd2w-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QasB2vUxpqvYcMy4Cd2w-100" target="QasB2vUxpqvYcMy4Cd2w-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-100" value="扩充手语类别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="140" width="156" height="49" as="geometry" />
         </mxCell>
@@ -44,6 +47,9 @@
           <mxGeometry x="412" y="240" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.557;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QasB2vUxpqvYcMy4Cd2w-98" target="QasB2vUxpqvYcMy4Cd2w-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QasB2vUxpqvYcMy4Cd2w-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.363;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QasB2vUxpqvYcMy4Cd2w-101" target="QasB2vUxpqvYcMy4Cd2w-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
