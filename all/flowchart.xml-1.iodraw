@@ -23,10 +23,10 @@
           <mxGeometry x="600" y="178" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-6" value="... (重复 卷积 + 池化 层)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="200" width="234" height="49" as="geometry" />
+          <mxGeometry x="352" y="180" width="234" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-7" value="展平 (Flatten)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1656" y="29" width="130" height="49" as="geometry" />
+          <mxGeometry x="1241" y="360" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-8" value="全连接层 (Fully Connected)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1837" y="29" width="226" height="49" as="geometry" />
