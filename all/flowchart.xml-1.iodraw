@@ -59,7 +59,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QasB2vUxpqvYcMy4Cd2w-78" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.92;entryY=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QasB2vUxpqvYcMy4Cd2w-70" target="QasB2vUxpqvYcMy4Cd2w-66">
+        <mxCell id="QasB2vUxpqvYcMy4Cd2w-78" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.92;entryY=1;rounded=0;strokeColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QasB2vUxpqvYcMy4Cd2w-70" target="QasB2vUxpqvYcMy4Cd2w-66">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1071" y="131" />
