@@ -31,11 +31,22 @@
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-42" value="残差块 × N" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="10" width="136" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="QasB2vUxpqvYcMy4Cd2w-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QasB2vUxpqvYcMy4Cd2w-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="173.83333333333348" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-43" value="全局平均池化" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="545" y="149.5" width="126" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="QasB2vUxpqvYcMy4Cd2w-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QasB2vUxpqvYcMy4Cd2w-44" target="QasB2vUxpqvYcMy4Cd2w-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-44" value="Dropout" style="rounded=1;arcSize=20;strokeWidth=2;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="130" width="49" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="QasB2vUxpqvYcMy4Cd2w-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QasB2vUxpqvYcMy4Cd2w-45" target="QasB2vUxpqvYcMy4Cd2w-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-45" value="全连接层" style="rounded=1;arcSize=20;strokeWidth=2;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="301.5" y="130" width="49" height="94" as="geometry" />
