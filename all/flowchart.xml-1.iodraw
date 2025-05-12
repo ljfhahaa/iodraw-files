@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1188" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2015" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-95" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="60" width="80" height="49" as="geometry" />
+          <mxGeometry y="70" width="80" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QasB2vUxpqvYcMy4Cd2w-96" target="QasB2vUxpqvYcMy4Cd2w-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-96" value="摄像头录制基础手语数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="60" width="236" height="49" as="geometry" />
+          <mxGeometry x="130" y="60" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QasB2vUxpqvYcMy4Cd2w-97" target="QasB2vUxpqvYcMy4Cd2w-98">
           <mxGeometry relative="1" as="geometry" />
@@ -35,19 +35,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-100" value="扩充手语类别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="140" width="156" height="49" as="geometry" />
+          <mxGeometry x="390" y="140" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QasB2vUxpqvYcMy4Cd2w-101" target="QasB2vUxpqvYcMy4Cd2w-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-101" value="微调原模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="140" width="140" height="49" as="geometry" />
+          <mxGeometry x="210" y="140" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-102" value="翻译新手语 (带置信度)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="220" width="221" height="49" as="geometry" />
+          <mxGeometry x="-40" y="150" width="221" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-103" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="412" y="240" width="92" height="49" as="geometry" />
+          <mxGeometry x="130" y="230" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.557;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QasB2vUxpqvYcMy4Cd2w-98" target="QasB2vUxpqvYcMy4Cd2w-99">
           <mxGeometry relative="1" as="geometry" />
