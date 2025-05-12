@@ -17,13 +17,13 @@
           <mxGeometry x="610" y="40" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-99" value="翻译基础手语 (带置信度)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="416" width="237" height="49" as="geometry" />
+          <mxGeometry x="570" y="150" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-100" value="扩充手语类别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="515" width="156" height="49" as="geometry" />
+          <mxGeometry x="386" y="150" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-101" value="微调原模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="68" y="614" width="140" height="49" as="geometry" />
+          <mxGeometry x="184" y="150" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-102" value="翻译新手语 (带置信度)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="28" y="713" width="221" height="49" as="geometry" />
