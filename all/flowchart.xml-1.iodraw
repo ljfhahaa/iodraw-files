@@ -23,10 +23,10 @@
           <mxGeometry x="386" y="150" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-101" value="微调原模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="184" y="150" width="140" height="49" as="geometry" />
+          <mxGeometry x="100" y="160" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-102" value="翻译新手语 (带置信度)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="28" y="713" width="221" height="49" as="geometry" />
+          <mxGeometry x="140" y="280" width="221" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-103" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="92" y="812" width="92" height="49" as="geometry" />
