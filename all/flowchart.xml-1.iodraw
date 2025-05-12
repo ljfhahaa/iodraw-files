@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-95" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="30" width="92" height="49" as="geometry" />
+          <mxGeometry x="20" y="30" width="80" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-96" value="摄像头录制基础手语数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="30" width="236" height="49" as="geometry" />
