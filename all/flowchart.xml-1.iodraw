@@ -23,10 +23,10 @@
           <mxGeometry x="545" y="130" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-44" value="Dropout" style="rounded=1;arcSize=20;strokeWidth=2;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="81.5" y="717.5" width="49" height="88" as="geometry" />
+          <mxGeometry x="440" y="130" width="49" height="88" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-45" value="全连接层" style="rounded=1;arcSize=20;strokeWidth=2;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="81.5" y="813.5" width="49" height="94" as="geometry" />
+          <mxGeometry x="301.5" y="130" width="49" height="94" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-46" value="输出结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="44" y="935" width="124" height="49" as="geometry" />
