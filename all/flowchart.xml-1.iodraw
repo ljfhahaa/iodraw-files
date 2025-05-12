@@ -10,8 +10,8 @@
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-66" value="打开摄像头,实时捕捉图像帧" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="162" y="71" width="228" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="QasB2vUxpqvYcMy4Cd2w-67" value="图像预处理" style="rounded=1;arcSize=20;strokeWidth=2;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470.5" y="5.5" width="49" height="110" as="geometry" />
+        <mxCell id="QasB2vUxpqvYcMy4Cd2w-67" value="图像预处理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="36" width="110" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-68" value="输入模型进行分类预测" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="36" width="190" height="49" as="geometry" />
