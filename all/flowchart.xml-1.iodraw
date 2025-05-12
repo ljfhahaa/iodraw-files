@@ -16,11 +16,17 @@
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-39" value="输入图像" style="rounded=1;arcSize=20;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="20" width="80" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="QasB2vUxpqvYcMy4Cd2w-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QasB2vUxpqvYcMy4Cd2w-40" target="QasB2vUxpqvYcMy4Cd2w-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-40" value="卷积 + BN + ReLU" style="rhombus;strokeWidth=2;whiteSpace=wrap;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="-5.5" width="172" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-41" value="最大池化" style="rounded=1;arcSize=20;strokeWidth=2;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="-5.5" width="49" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="QasB2vUxpqvYcMy4Cd2w-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QasB2vUxpqvYcMy4Cd2w-42" target="QasB2vUxpqvYcMy4Cd2w-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-42" value="残差块 × N" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="10" width="136" height="49" as="geometry" />
@@ -36,6 +42,9 @@
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-46" value="输出结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="105" y="160" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="QasB2vUxpqvYcMy4Cd2w-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.639;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QasB2vUxpqvYcMy4Cd2w-41" target="QasB2vUxpqvYcMy4Cd2w-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
