@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="30" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-96" value="摄像头录制基础手语数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="30" width="236" height="49" as="geometry" />
+          <mxGeometry x="140" y="30" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-97" value="数据预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="30" width="140" height="49" as="geometry" />
@@ -30,16 +30,6 @@
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-103" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="322" y="270" width="92" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="QasB2vUxpqvYcMy4Cd2w-110" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QasB2vUxpqvYcMy4Cd2w-101" target="QasB2vUxpqvYcMy4Cd2w-102">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QasB2vUxpqvYcMy4Cd2w-111" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QasB2vUxpqvYcMy4Cd2w-102" target="QasB2vUxpqvYcMy4Cd2w-103">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
