@@ -44,7 +44,7 @@
           <mxGeometry x="80" y="140" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-102" value="翻译新手语 (带置信度)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="260" width="221" height="49" as="geometry" />
+          <mxGeometry x="70" y="220" width="221" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-103" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="412" y="240" width="92" height="49" as="geometry" />
