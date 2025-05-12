@@ -39,6 +39,9 @@
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-43" value="全局平均池化" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="545" y="149.5" width="126" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="QasB2vUxpqvYcMy4Cd2w-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QasB2vUxpqvYcMy4Cd2w-44" target="QasB2vUxpqvYcMy4Cd2w-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-44" value="Dropout" style="rounded=1;arcSize=20;strokeWidth=2;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="130" width="59" height="88" as="geometry" />
         </mxCell>
