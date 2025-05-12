@@ -17,7 +17,7 @@
           <mxGeometry x="663" y="29" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-4" value="卷积层 (Conv) + 激活函数 (ReLU)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="887" y="20" width="211" height="67" as="geometry" />
+          <mxGeometry x="827" y="160" width="211" height="67" as="geometry" />
         </mxCell>
         <mxCell id="QasB2vUxpqvYcMy4Cd2w-5" value="池化层 (MaxPooling)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1148" y="29" width="174" height="49" as="geometry" />
