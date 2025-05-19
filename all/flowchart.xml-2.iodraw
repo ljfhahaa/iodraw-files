@@ -8,19 +8,19 @@
           <mxGeometry x="10" y="66" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ZO28SfjnTRuAHba6kpOL-1" value="从学校坐公交车" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="30" width="161" height="110" as="geometry" />
+          <mxGeometry x="141" y="40" width="161" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ZO28SfjnTRuAHba6kpOL-2" value="洗照片" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="52" y="330" width="97" height="97" as="geometry" />
+          <mxGeometry x="365" y="42" width="97" height="97" as="geometry" />
         </mxCell>
         <mxCell id="ZO28SfjnTRuAHba6kpOL-3" value="步行" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="477" width="81" height="81" as="geometry" />
+          <mxGeometry x="530" y="54.5" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="ZO28SfjnTRuAHba6kpOL-4" value="观音桥唱歌" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="36" y="608" width="129" height="129" as="geometry" />
+          <mxGeometry x="660" y="26" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="ZO28SfjnTRuAHba6kpOL-5" value="步行" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="787" width="81" height="81" as="geometry" />
+          <mxGeometry x="690" y="190" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="ZO28SfjnTRuAHba6kpOL-6" value="洗照片取照片" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="28" y="918" width="145" height="145" as="geometry" />
