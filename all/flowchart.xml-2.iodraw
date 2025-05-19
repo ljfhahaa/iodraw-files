@@ -32,7 +32,7 @@
           <mxGeometry x="157" y="200" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="ZO28SfjnTRuAHba6kpOL-9" value="乘轻轨" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="52" y="1423" width="97" height="97" as="geometry" />
+          <mxGeometry x="10" y="216" width="97" height="97" as="geometry" />
         </mxCell>
         <mxCell id="ZO28SfjnTRuAHba6kpOL-10" value="返回学校" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="39" y="1570" width="124" height="49" as="geometry" />
