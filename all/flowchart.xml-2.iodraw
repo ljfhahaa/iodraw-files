@@ -1,43 +1,14 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1678" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="-241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="ZO28SfjnTRuAHba6kpOL-1" value="从学校坐公交车" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="141" y="40" width="161" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="ZO28SfjnTRuAHba6kpOL-8" value="观音桥吃饭" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="157" y="200" width="129" height="129" as="geometry" />
-        </mxCell>
-        <mxCell id="ZO28SfjnTRuAHba6kpOL-10" value="返回学校" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="39" y="1570" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="ZO28SfjnTRuAHba6kpOL-11" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="55" y="1669" width="92" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="ZO28SfjnTRuAHba6kpOL-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZO28SfjnTRuAHba6kpOL-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="570.5" y="135.5" as="sourcePoint" />
-            <mxPoint x="724.5" y="26" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZO28SfjnTRuAHba6kpOL-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZO28SfjnTRuAHba6kpOL-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="58.49999999999977" y="216" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZO28SfjnTRuAHba6kpOL-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ZO28SfjnTRuAHba6kpOL-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="58.49999999999977" y="313" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZO28SfjnTRuAHba6kpOL-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZO28SfjnTRuAHba6kpOL-10" target="ZO28SfjnTRuAHba6kpOL-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="101.00000000000023" y="1619" as="sourcePoint" />
+            <mxPoint x="100.07999999999993" y="1669" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZO28SfjnTRuAHba6kpOL-23" value="学校" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
