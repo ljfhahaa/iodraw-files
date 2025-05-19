@@ -4,13 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="ZO28SfjnTRuAHba6kpOL-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="101.00000000000023" y="1619" as="sourcePoint" />
-            <mxPoint x="100.07999999999993" y="1669" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZO28SfjnTRuAHba6kpOL-23" value="学校" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="37" y="1740" width="92" height="49" as="geometry" />
         </mxCell>
@@ -66,6 +59,69 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZO28SfjnTRuAHba6kpOL-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZO28SfjnTRuAHba6kpOL-29" target="ZO28SfjnTRuAHba6kpOL-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZO28SfjnTRuAHba6kpOL-38" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="202" y="2500" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ZO28SfjnTRuAHba6kpOL-39" value="学校" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="202" y="2599" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ZO28SfjnTRuAHba6kpOL-40" value="洗照片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="44" y="2721" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ZO28SfjnTRuAHba6kpOL-41" value="观音桥唱歌" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="28" y="2843" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ZO28SfjnTRuAHba6kpOL-42" value="洗照片取照片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="2965" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ZO28SfjnTRuAHba6kpOL-43" value="观音桥吃饭" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="144" y="3087" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ZO28SfjnTRuAHba6kpOL-44" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="202" y="2721" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ZO28SfjnTRuAHba6kpOL-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZO28SfjnTRuAHba6kpOL-38" target="ZO28SfjnTRuAHba6kpOL-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZO28SfjnTRuAHba6kpOL-46" value="公交" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZO28SfjnTRuAHba6kpOL-39" target="ZO28SfjnTRuAHba6kpOL-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="2685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZO28SfjnTRuAHba6kpOL-47" value="步行" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZO28SfjnTRuAHba6kpOL-40" target="ZO28SfjnTRuAHba6kpOL-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZO28SfjnTRuAHba6kpOL-48" value="步行" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZO28SfjnTRuAHba6kpOL-41" target="ZO28SfjnTRuAHba6kpOL-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZO28SfjnTRuAHba6kpOL-49" value="步行" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.17;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZO28SfjnTRuAHba6kpOL-42" target="ZO28SfjnTRuAHba6kpOL-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="3051" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZO28SfjnTRuAHba6kpOL-50" value="轻轨" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=0;entryX=0.85;entryY=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZO28SfjnTRuAHba6kpOL-43" target="ZO28SfjnTRuAHba6kpOL-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="329" y="3051" />
+              <mxPoint x="329" y="2685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZO28SfjnTRuAHba6kpOL-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZO28SfjnTRuAHba6kpOL-39" target="ZO28SfjnTRuAHba6kpOL-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
